@@ -1,6 +1,6 @@
 # MITRE ATT&CK Defender™ ATT&CK® Threat Hunting
 
-## 1.2. Approches de detection traditionelles
+## 1.2. Approches de detection traditionnelles
 
 - **Precision : Ratio of true positives to total results**
     
